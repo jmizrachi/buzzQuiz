@@ -1,0 +1,44 @@
+
+
+
+
+What language should I learn?
+
+Hebrew
+a. Language of the Bible
+b. Language of Israel
+c. Secret language; small group
+d. One of the oldest cultures in the world
+e. only language to be brought back to life.
+
+French
+a. it sounds beautiful
+b. language of love, and class
+c. Philosophy: Descartes, Rousseau, Sartre
+
+China
+a. Language of the east.
+b. most spoken language behind english.
+c. Largest economy in the world.
+d. no grammar rules
+e. culture is really interesting: food, philosophy,
+
+
+Points system.
+1. Print the language with the most points.
+
+A===Hebrew
+B===French
+C===Chinese
+
+1. Drink
+2. Food
+3. Art
+4. Instrument
+      a. Drum, Harp
+      b. Piano Guitar,
+      c. Erhu
+5. Color
+    blue: Israel
+    white: France
+    red: China
